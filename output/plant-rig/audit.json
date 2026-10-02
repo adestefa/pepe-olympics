@@ -1,0 +1,3552 @@
+{
+  "sources_unchanged": true,
+  "frames": [
+    {
+      "frame": 1,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0060441638343036175,
+      "wrists": {
+        "Right": 1.3862099439425366,
+        "Left": 1.8741928091940976
+      },
+      "grip_errors": {
+        "Right": 3.003425057343598e-08,
+        "Left": 7.450580596923828e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 2,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0065357317216694355,
+      "wrists": {
+        "Right": 1.3152198391954801,
+        "Left": 1.8109971242287892
+      },
+      "grip_errors": {
+        "Right": 4.548249932778917e-08,
+        "Left": 4.267693606501724e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 3,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.007950494065880775,
+      "wrists": {
+        "Right": 0.962661589216995,
+        "Left": 1.3694507941534408
+      },
+      "grip_errors": {
+        "Right": 5.963374150388733e-08,
+        "Left": 2.1335215960854819e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 4,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.01020445954054594,
+      "wrists": {
+        "Right": 0.5078340630222626,
+        "Left": 0.7214502036659683
+      },
+      "grip_errors": {
+        "Right": 1.8940454451570154e-07,
+        "Left": 1.3333208984265686e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 5,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.013214705511927605,
+      "wrists": {
+        "Right": 0.37638539157850115,
+        "Left": 0.26019629655547377
+      },
+      "grip_errors": {
+        "Right": 7.302424231139071e-08,
+        "Left": 3.747760536679073e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 6,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.016897350549697876,
+      "wrists": {
+        "Right": 0.6055493106094038,
+        "Left": 0.19683189791353822
+      },
+      "grip_errors": {
+        "Right": 1.2334311851220805e-07,
+        "Left": 2.50038865127412e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 7,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.021168839186429977,
+      "wrists": {
+        "Right": 0.47353952311706987,
+        "Left": 0.10279207250233743
+      },
+      "grip_errors": {
+        "Right": 2.3853496601554932e-08,
+        "Left": 3.0719530773294425e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 8,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.02594522386789322,
+      "wrists": {
+        "Right": 0.1327040121884422,
+        "Left": 0.12194655762716466
+      },
+      "grip_errors": {
+        "Right": 1.7998396092538606e-07,
+        "Left": 1.7881393432617188e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 9,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.031142840161919594,
+      "wrists": {
+        "Right": 0.7835966008200335,
+        "Left": 0.2332305229492783
+      },
+      "grip_errors": {
+        "Right": 6.143906154658885e-08,
+        "Left": 1.84354827279726e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 10,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03667769581079483,
+      "wrists": {
+        "Right": 1.6447294023763457,
+        "Left": 0.4449938680589123
+      },
+      "grip_errors": {
+        "Right": 1.2377834115800373e-07,
+        "Left": 2.5092533408178257e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 11,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.04246598854660988,
+      "wrists": {
+        "Right": 2.6853296398821214,
+        "Left": 0.5215207482627632
+      },
+      "grip_errors": {
+        "Right": 6.664001874625056e-08,
+        "Left": 1.8745281734182126e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 12,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.04842369630932808,
+      "wrists": {
+        "Right": 3.6826476089477613,
+        "Left": 0.5983981025484004
+      },
+      "grip_errors": {
+        "Right": 8.33000234328132e-08,
+        "Left": 3.6532545127290493e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 13,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.054466910660266876,
+      "wrists": {
+        "Right": 4.1801073616727145,
+        "Left": 0.9717656977720931
+      },
+      "grip_errors": {
+        "Right": 7.893748618817736e-08,
+        "Left": 2.502330485544602e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 14,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.051215820014476776,
+      "wrists": {
+        "Right": 4.0122960170678486,
+        "Left": 1.3193793176783122
+      },
+      "grip_errors": {
+        "Right": 9.947292449190236e-08,
+        "Left": 3.2272712544446506e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 15,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.046401247382164,
+      "wrists": {
+        "Right": 3.387088888418619,
+        "Left": 1.4888519990770783
+      },
+      "grip_errors": {
+        "Right": 1.309692549053352e-07,
+        "Left": 3.0613183608728287e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 16,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.04172263294458389,
+      "wrists": {
+        "Right": 2.6081950329246983,
+        "Left": 1.4675378601635247
+      },
+      "grip_errors": {
+        "Right": 8.462232866585662e-08,
+        "Left": 4.177643587850388e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 17,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03724818676710129,
+      "wrists": {
+        "Right": 1.7459642250984533,
+        "Left": 1.2770221129838897
+      },
+      "grip_errors": {
+        "Right": 1.4901161193847656e-08,
+        "Left": 1.2013700229374393e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 18,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.033045694231987,
+      "wrists": {
+        "Right": 0.6330381006152076,
+        "Left": 0.937534817364399
+      },
+      "grip_errors": {
+        "Right": 1.9371509552001953e-07,
+        "Left": 2.5378497437016815e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 19,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.029183179140090942,
+      "wrists": {
+        "Right": 1.1289991070650196,
+        "Left": 0.5315545629577764
+      },
+      "grip_errors": {
+        "Right": 7.487740830422111e-08,
+        "Left": 1.6395510051150163e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 20,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.025728605687618256,
+      "wrists": {
+        "Right": 2.9453694557364933,
+        "Left": 0.722263423064023
+      },
+      "grip_errors": {
+        "Right": 1.3657139822709083e-07,
+        "Left": 1.2293457984924316e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 21,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.02274981513619423,
+      "wrists": {
+        "Right": 4.5524687846543,
+        "Left": 1.2704158259526064
+      },
+      "grip_errors": {
+        "Right": 8.195638656616211e-08,
+        "Left": 1.9995476156949463e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 22,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.02031473070383072,
+      "wrists": {
+        "Right": 5.401201751298425,
+        "Left": 1.5353136138541497
+      },
+      "grip_errors": {
+        "Right": 1.2377834115800373e-07,
+        "Left": 2.443972150513042e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 23,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.018491245806217194,
+      "wrists": {
+        "Right": 5.237570482465606,
+        "Left": 1.4948859376002557
+      },
+      "grip_errors": {
+        "Right": 1.0536712127723508e-07,
+        "Left": 1.3457530638715954e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 24,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.01734737493097782,
+      "wrists": {
+        "Right": 4.082598727307967,
+        "Left": 1.3596990982876611
+      },
+      "grip_errors": {
+        "Right": 1.3075715880680267e-07,
+        "Left": 8.462232866585662e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 25,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.01695094257593155,
+      "wrists": {
+        "Right": 1.933606917236746,
+        "Left": 1.1661718780142851
+      },
+      "grip_errors": {
+        "Right": 1.3075715880680267e-07,
+        "Left": 2.5474013384101925e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 26,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.017423033714294434,
+      "wrists": {
+        "Right": 0.7041557378006729,
+        "Left": 1.1183763486366514
+      },
+      "grip_errors": {
+        "Right": 1.4466410755327046e-07,
+        "Left": 2.2105133085171576e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 27,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.018785366788506508,
+      "wrists": {
+        "Right": 1.701458819188356,
+        "Left": 1.1348768050109328
+      },
+      "grip_errors": {
+        "Right": 8.940696716308594e-08,
+        "Left": 1.831464253855028e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 28,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.020955437794327736,
+      "wrists": {
+        "Right": 2.1674469812085952,
+        "Left": 1.0235466425304292
+      },
+      "grip_errors": {
+        "Right": 5.819089469244073e-08,
+        "Left": 3.3394895242176905e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 29,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.023851631209254265,
+      "wrists": {
+        "Right": 2.2764087755943967,
+        "Left": 0.7430948063414743
+      },
+      "grip_errors": {
+        "Right": 1.97686242482388e-07,
+        "Left": 7.028863677424642e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 30,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.027386251837015152,
+      "wrists": {
+        "Right": 2.1400946349036327,
+        "Left": 0.46012673913445734
+      },
+      "grip_errors": {
+        "Right": 1.221986075256521e-07,
+        "Left": 1.8852324677824966e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 31,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03148576617240906,
+      "wrists": {
+        "Right": 1.6419904965191707,
+        "Left": 0.3631561155689798
+      },
+      "grip_errors": {
+        "Right": 1.9670097205704578e-07,
+        "Left": 3.003425057343598e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 32,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03606952726840973,
+      "wrists": {
+        "Right": 0.7063753358375155,
+        "Left": 0.3706226862705673
+      },
+      "grip_errors": {
+        "Right": 1.812804499357408e-07,
+        "Left": 2.1503671541306096e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 33,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.041057080030441284,
+      "wrists": {
+        "Right": 0.5560232354116711,
+        "Left": 0.30390243693054736
+      },
+      "grip_errors": {
+        "Right": 1.3738191809196602e-07,
+        "Left": 1.84354827279726e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 34,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.046367812901735306,
+      "wrists": {
+        "Right": 1.6736268655376119,
+        "Left": 0.11190583270170214
+      },
+      "grip_errors": {
+        "Right": 8.688795409866125e-08,
+        "Left": 2.086162567138672e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 35,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.05192124843597412,
+      "wrists": {
+        "Right": 2.630315240882019,
+        "Left": 0.2332305229492783
+      },
+      "grip_errors": {
+        "Right": 1.251165242772301e-07,
+        "Left": 1.043247577916119e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 36,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.056066252291202545,
+      "wrists": {
+        "Right": 3.1918137800479545,
+        "Left": 0.3896676815953694
+      },
+      "grip_errors": {
+        "Right": 1.1780402288468105e-07,
+        "Left": 3.0643201816165453e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 37,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.049385882914066315,
+      "wrists": {
+        "Right": 2.9190657569125396,
+        "Left": 0.475189494049304
+      },
+      "grip_errors": {
+        "Right": 1.284009809763289e-07,
+        "Left": 1.9097336557472194e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 38,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.04271078109741211,
+      "wrists": {
+        "Right": 1.8530853902246425,
+        "Left": 0.7595032152445192
+      },
+      "grip_errors": {
+        "Right": 2.0714758000460035e-07,
+        "Left": 1.9508040295216533e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 39,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03613360598683357,
+      "wrists": {
+        "Right": 0.7027649405309291,
+        "Left": 0.9571575239630224
+      },
+      "grip_errors": {
+        "Right": 2.6873780484305966e-07,
+        "Left": 2.4028122425079346e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 40,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.029747014865279198,
+      "wrists": {
+        "Right": 0.19077408040869226,
+        "Left": 0.7636142420729264
+      },
+      "grip_errors": {
+        "Right": 1.1662003280593849e-07,
+        "Left": 2.4343710355309376e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 41,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.023618878796696663,
+      "wrists": {
+        "Right": 0.2430896608923537,
+        "Left": 0.4238234832830462
+      },
+      "grip_errors": {
+        "Right": 1.4600096599955427e-07,
+        "Left": 8.576767980935272e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 42,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.017854997888207436,
+      "wrists": {
+        "Right": 0.32625916686830647,
+        "Left": 0.2853052725636307
+      },
+      "grip_errors": {
+        "Right": 1.9796684765199457e-07,
+        "Left": 2.7377715746571313e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 43,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.012560716830193996,
+      "wrists": {
+        "Right": 0.9251385576293547,
+        "Left": 0.5370479026803179
+      },
+      "grip_errors": {
+        "Right": 1.8005141576520461e-07,
+        "Left": 2.9843948175050787e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 44,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.007828034460544586,
+      "wrists": {
+        "Right": 1.2033349372883244,
+        "Left": 0.9198355560690745
+      },
+      "grip_errors": {
+        "Right": 1.9213254687529247e-07,
+        "Left": 2.5805703276123995e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 45,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.003749419003725052,
+      "wrists": {
+        "Right": 0.9624582843674813,
+        "Left": 1.2018705020415914
+      },
+      "grip_errors": {
+        "Right": 2.0499254006441838e-07,
+        "Left": 1.391010627243563e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 46,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.00041653960943222046,
+      "wrists": {
+        "Right": 0.7105183791776571,
+        "Left": 1.3019104685457699
+      },
+      "grip_errors": {
+        "Right": 1.8980710510696465e-07,
+        "Left": 3.738332178774407e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 47,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.00207824376411736,
+      "wrists": {
+        "Right": 0.9257729114485197,
+        "Left": 1.2046351278298597
+      },
+      "grip_errors": {
+        "Right": 7.028863677424642e-08,
+        "Left": 3.1265956674949674e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 48,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0036428666207939386,
+      "wrists": {
+        "Right": 1.2161140077820067,
+        "Left": 1.0044416429265515
+      },
+      "grip_errors": {
+        "Right": 2.860479626126955e-07,
+        "Left": 2.393376709602244e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 49,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.004185106605291367,
+      "wrists": {
+        "Right": 1.2598980816827272,
+        "Left": 0.7584719634015531
+      },
+      "grip_errors": {
+        "Right": 1.3348812510944096e-07,
+        "Left": 3.27073606634611e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 50,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0041607460007071495,
+      "wrists": {
+        "Right": 1.1876209131639466,
+        "Left": 0.5363186732647132
+      },
+      "grip_errors": {
+        "Right": 1.475139697881291e-07,
+        "Left": 1.4642807846541365e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 51,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.004090738482773304,
+      "wrists": {
+        "Right": 1.0655106844607527,
+        "Left": 0.36476894734760196
+      },
+      "grip_errors": {
+        "Right": 1.301187962038292e-07,
+        "Left": 2.9804650603189484e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 52,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.00397877674549818,
+      "wrists": {
+        "Right": 0.8357966950778261,
+        "Left": 0.28461862510863284
+      },
+      "grip_errors": {
+        "Right": 7.955043205642187e-08,
+        "Left": 3.775258244782633e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 53,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.003828758606687188,
+      "wrists": {
+        "Right": 0.7607902790162435,
+        "Left": 0.26466991037927345
+      },
+      "grip_errors": {
+        "Right": 8.229435248067425e-08,
+        "Left": 7.236504599070448e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 54,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0036447339225560427,
+      "wrists": {
+        "Right": 0.5510743898320266,
+        "Left": 0.16432451969336168
+      },
+      "grip_errors": {
+        "Right": 1.2687881563549044e-07,
+        "Left": 2.6068747225336526e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 55,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0034303118009120226,
+      "wrists": {
+        "Right": 0.27553639450321993,
+        "Left": 0.29341985746272314
+      },
+      "grip_errors": {
+        "Right": 8.494968899333014e-08,
+        "Left": 1.8016191631782768e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 56,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.00318953231908381,
+      "wrists": {
+        "Right": 0.3753441879364709,
+        "Left": 0.5304490328075864
+      },
+      "grip_errors": {
+        "Right": 1.3758380198940178e-07,
+        "Left": 8.998853548914069e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 57,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.002926076063886285,
+      "wrists": {
+        "Right": 0.21306245509389837,
+        "Left": 0.5901665506597714
+      },
+      "grip_errors": {
+        "Right": 1.55572690202453e-07,
+        "Left": 2.5173213761193145e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 58,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.002644008258357644,
+      "wrists": {
+        "Right": 0.1398823142225008,
+        "Left": 0.3071048885167842
+      },
+      "grip_errors": {
+        "Right": 2.4496439431270354e-07,
+        "Left": 4.371846905067542e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 59,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0023532079067081213,
+      "wrists": {
+        "Right": 0.3835945495257438,
+        "Left": 0.350544518112095
+      },
+      "grip_errors": {
+        "Right": 1.3758380198940178e-07,
+        "Left": 2.58716676836056e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 60,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0020611712243407965,
+      "wrists": {
+        "Right": 0.6525209484184046,
+        "Left": 0.49257782165483416
+      },
+      "grip_errors": {
+        "Right": 1.463806830673553e-07,
+        "Left": 2.3040354124544331e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 61,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0017632057424634695,
+      "wrists": {
+        "Right": 0.819721898227054,
+        "Left": 0.200768928340882
+      },
+      "grip_errors": {
+        "Right": 1.0457388198091238e-07,
+        "Left": 2.4315390627590117e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 62,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0014630628284066916,
+      "wrists": {
+        "Right": 0.7016502856748947,
+        "Left": 0.27765866234438985
+      },
+      "grip_errors": {
+        "Right": 1.6272313645364013e-07,
+        "Left": 1.9850232519335346e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 63,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0011651439126580954,
+      "wrists": {
+        "Right": 0.34717920920283574,
+        "Left": 0.28461862510863284
+      },
+      "grip_errors": {
+        "Right": 6.869095904598301e-08,
+        "Left": 7.369329526067523e-08
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 64,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0008738543838262558,
+      "wrists": {
+        "Right": 0.1412742053897289,
+        "Left": 0.11190583270170214
+      },
+      "grip_errors": {
+        "Right": 1.828051231262877e-07,
+        "Left": 1.853828468496708e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 65,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.0005934573709964752,
+      "wrists": {
+        "Right": 0.10087055485984905,
+        "Left": 0.5188877103377233
+      },
+      "grip_errors": {
+        "Right": 7.028863677424642e-08,
+        "Left": 2.4199161409605543e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 66,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -0.00032860785722732544,
+      "wrists": {
+        "Right": 0.26614440414677637,
+        "Left": 0.6726034654863875
+      },
+      "grip_errors": {
+        "Right": 1.9227695316916615e-07,
+        "Left": 4.239318571102379e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 67,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": -8.386746048927307e-05,
+      "wrists": {
+        "Right": 0.9516217623624329,
+        "Left": 0.42750097986214275
+      },
+      "grip_errors": {
+        "Right": 5.960464477539063e-08,
+        "Left": 1.3434874139803457e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 68,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.00013623759150505066,
+      "wrists": {
+        "Right": 2.1044051889430238,
+        "Left": 0.6373508848283946
+      },
+      "grip_errors": {
+        "Right": 1.2151529215499825e-07,
+        "Left": 2.1880138180733022e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 69,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.00031877122819423676,
+      "wrists": {
+        "Right": 3.7000462351978993,
+        "Left": 1.4721975432813543
+      },
+      "grip_errors": {
+        "Right": 9.714368589524402e-08,
+        "Left": 1.1337072808864734e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 70,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0004621967673301697,
+      "wrists": {
+        "Right": 5.665761017949229,
+        "Left": 2.2726225029166827
+      },
+      "grip_errors": {
+        "Right": 1.7958835949292705e-07,
+        "Left": 2.9499569044731e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 71,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0005698986351490021,
+      "wrists": {
+        "Right": 7.782630875240703,
+        "Left": 2.905622663965485
+      },
+      "grip_errors": {
+        "Right": 1.0457388198091238e-07,
+        "Left": 2.418043478698758e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 72,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0006376318633556366,
+      "wrists": {
+        "Right": 9.543509992330643,
+        "Left": 3.321188875428809
+      },
+      "grip_errors": {
+        "Right": 2.443972150513042e-07,
+        "Left": 1.9871914708262176e-07
+      },
+      "tip_anchor_error": null
+    },
+    {
+      "frame": 73,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.000661192461848259,
+      "wrists": {
+        "Right": 10.214267012224452,
+        "Left": 3.4885756810880766
+      },
+      "grip_errors": {
+        "Right": 7.920075813483186e-08,
+        "Left": 2.2856194020498078e-07
+      },
+      "tip_anchor_error": 2.0647654623614278e-07
+    },
+    {
+      "frame": 74,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0017523914575576782,
+      "wrists": {
+        "Right": 10.176025636835197,
+        "Left": 3.506824239003058
+      },
+      "grip_errors": {
+        "Right": 6.006850114687196e-08,
+        "Left": 1.85803895678353e-07
+      },
+      "tip_anchor_error": 4.6808781248518006e-07
+    },
+    {
+      "frame": 75,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.004961883649230003,
+      "wrists": {
+        "Right": 10.185551189406427,
+        "Left": 3.487902053681184
+      },
+      "grip_errors": {
+        "Right": 4.712160915387242e-08,
+        "Left": 2.617669134197363e-07
+      },
+      "tip_anchor_error": 1.8013088368297144e-07
+    },
+    {
+      "frame": 76,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.010188544169068336,
+      "wrists": {
+        "Right": 10.210221832688513,
+        "Left": 3.4480436310059286
+      },
+      "grip_errors": {
+        "Right": 3.332000937312528e-08,
+        "Left": 2.0711934740826753e-07
+      },
+      "tip_anchor_error": 9.5137233553728e-07
+    },
+    {
+      "frame": 77,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.01732751540839672,
+      "wrists": {
+        "Right": 10.244170434184415,
+        "Left": 3.393845226168231
+      },
+      "grip_errors": {
+        "Right": 1.660994947672483e-07,
+        "Left": 1.7200638585169465e-07
+      },
+      "tip_anchor_error": 4.40799018214592e-07
+    },
+    {
+      "frame": 78,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.026268623769283295,
+      "wrists": {
+        "Right": 10.286789960831648,
+        "Left": 3.327431454886789
+      },
+      "grip_errors": {
+        "Right": 1.292627421982398e-07,
+        "Left": 1.7226195105147064e-07
+      },
+      "tip_anchor_error": 5.963374150388733e-08
+    },
+    {
+      "frame": 79,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.03689873218536377,
+      "wrists": {
+        "Right": 10.337479355983252,
+        "Left": 3.2496210860883576
+      },
+      "grip_errors": {
+        "Right": 1.2753339684474237e-07,
+        "Left": 2.0473003840802555e-07
+      },
+      "tip_anchor_error": 6.101406870096623e-08
+    },
+    {
+      "frame": 80,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.049101851880550385,
+      "wrists": {
+        "Right": 10.396140435669906,
+        "Left": 3.161678558543035
+      },
+      "grip_errors": {
+        "Right": 2.516708635397931e-07,
+        "Left": 9.253897794529346e-08
+      },
+      "tip_anchor_error": 1.0745380149674383e-07
+    },
+    {
+      "frame": 81,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.0627591460943222,
+      "wrists": {
+        "Right": 10.462020171535617,
+        "Left": 3.0648409902642406
+      },
+      "grip_errors": {
+        "Right": 4.470348358154297e-08,
+        "Left": 2.443972150513042e-07
+      },
+      "tip_anchor_error": 1.8907453925087333e-07
+    },
+    {
+      "frame": 82,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.07774953544139862,
+      "wrists": {
+        "Right": 10.535321761708195,
+        "Left": 2.9604842374829086
+      },
+      "grip_errors": {
+        "Right": 1.5857664237762066e-07,
+        "Left": 1.9393884192221303e-07
+      },
+      "tip_anchor_error": 1.0409503696306335e-06
+    },
+    {
+      "frame": 83,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.09395076334476471,
+      "wrists": {
+        "Right": 10.614983965545346,
+        "Left": 2.845169086508525
+      },
+      "grip_errors": {
+        "Right": 1.2693349299878494e-07,
+        "Left": 3.694053160340814e-07
+      },
+      "tip_anchor_error": 3.379148385062387e-07
+    },
+    {
+      "frame": 84,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.11123944818973541,
+      "wrists": {
+        "Right": 10.701124603810253,
+        "Left": 2.6984186302093933
+      },
+      "grip_errors": {
+        "Right": 3.6048800955423547e-07,
+        "Left": 3.321989895344966e-07
+      },
+      "tip_anchor_error": 3.018174931485816e-07
+    },
+    {
+      "frame": 85,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.12949156761169434,
+      "wrists": {
+        "Right": 10.7927686669989,
+        "Left": 2.5041311245040303
+      },
+      "grip_errors": {
+        "Right": 1.5141368979887348e-07,
+        "Left": 8.940696716308594e-08
+      },
+      "tip_anchor_error": 2.0647654623614278e-07
+    },
+    {
+      "frame": 86,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.14858271181583405,
+      "wrists": {
+        "Right": 10.8901970466409,
+        "Left": 2.2955019290889327
+      },
+      "grip_errors": {
+        "Right": 1.2737006692050962e-07,
+        "Left": 1.5879527841468985e-07
+      },
+      "tip_anchor_error": 2.859509149550719e-07
+    },
+    {
+      "frame": 87,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.16838978230953217,
+      "wrists": {
+        "Right": 10.992520964370508,
+        "Left": 2.1111835113640267
+      },
+      "grip_errors": {
+        "Right": 6.590711330232818e-08,
+        "Left": 1.341104507446289e-07
+      },
+      "tip_anchor_error": 2.9200193199910854e-07
+    },
+    {
+      "frame": 88,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.18879027664661407,
+      "wrists": {
+        "Right": 11.099591863573274,
+        "Left": 1.9447085359589555
+      },
+      "grip_errors": {
+        "Right": 1.55572690202453e-07,
+        "Left": 2.40994900310574e-07
+      },
+      "tip_anchor_error": 1.6924465733171325e-07
+    },
+    {
+      "frame": 89,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.20966337621212006,
+      "wrists": {
+        "Right": 11.210747215899708,
+        "Left": 1.783118319749207
+      },
+      "grip_errors": {
+        "Right": 2.5463115409962923e-07,
+        "Left": 2.7486483373786085e-07
+      },
+      "tip_anchor_error": 7.450580596923828e-08
+    },
+    {
+      "frame": 90,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.2308904230594635,
+      "wrists": {
+        "Right": 11.32578211567471,
+        "Left": 1.5884386117750973
+      },
+      "grip_errors": {
+        "Right": 1.2712808998776755e-07,
+        "Left": 3.8426509375058493e-07
+      },
+      "tip_anchor_error": 7.450580596923828e-08
+    },
+    {
+      "frame": 91,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.25235581398010254,
+      "wrists": {
+        "Right": 11.44406477040005,
+        "Left": 1.1964854314895652
+      },
+      "grip_errors": {
+        "Right": 4.277463934069806e-07,
+        "Left": 3.47551816394645e-07
+      },
+      "tip_anchor_error": 1.7943374184954607e-07
+    },
+    {
+      "frame": 92,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.27394700050354004,
+      "wrists": {
+        "Right": 11.565464552707857,
+        "Left": 0.4630939760811519
+      },
+      "grip_errors": {
+        "Right": 5.686408848491962e-08,
+        "Left": 3.857789476513749e-07
+      },
+      "tip_anchor_error": 2.388837865275353e-07
+    },
+    {
+      "frame": 93,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.29555565118789673,
+      "wrists": {
+        "Right": 11.689345401231671,
+        "Left": 1.0603560260715088
+      },
+      "grip_errors": {
+        "Right": 1.6049041769309353e-07,
+        "Left": 1.1638178938488147e-07
+      },
+      "tip_anchor_error": 1.6391277313232422e-07
+    },
+    {
+      "frame": 94,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.3170778751373291,
+      "wrists": {
+        "Right": 11.815230910276883,
+        "Left": 2.272708734054954
+      },
+      "grip_errors": {
+        "Right": 2.5790741936372184e-07,
+        "Left": 1.6858739404357614e-07
+      },
+      "tip_anchor_error": 1.4901161193847656e-07
+    },
+    {
+      "frame": 95,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.3384145498275757,
+      "wrists": {
+        "Right": 11.943027164742407,
+        "Left": 3.2763207224407607
+      },
+      "grip_errors": {
+        "Right": 7.233205377663523e-08,
+        "Left": 4.782901360304366e-07
+      },
+      "tip_anchor_error": 9.902267292640298e-07
+    },
+    {
+      "frame": 96,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.3594721555709839,
+      "wrists": {
+        "Right": 12.071693414553462,
+        "Left": 4.02525800856524
+      },
+      "grip_errors": {
+        "Right": 4.470348358154297e-08,
+        "Left": 2.602375924076584e-07
+      },
+      "tip_anchor_error": 1.3328003749250113e-07
+    },
+    {
+      "frame": 97,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.38016277551651,
+      "wrists": {
+        "Right": 12.20144737198984,
+        "Left": 4.276221356786311
+      },
+      "grip_errors": {
+        "Right": 6.365778852490731e-08,
+        "Left": 4.86061168619993e-07
+      },
+      "tip_anchor_error": 1.1449678368746367e-06
+    },
+    {
+      "frame": 98,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.4004053771495819,
+      "wrists": {
+        "Right": 12.331360131324422,
+        "Left": 3.7289866004848897
+      },
+      "grip_errors": {
+        "Right": 1.5359765386647212e-07,
+        "Left": 2.8115454709698567e-07
+      },
+      "tip_anchor_error": 3.384893146634265e-07
+    },
+    {
+      "frame": 99,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.42012426257133484,
+      "wrists": {
+        "Right": 12.461188367068024,
+        "Left": 2.4998283187703336
+      },
+      "grip_errors": {
+        "Right": 4.042583693936627e-07,
+        "Left": 4.308471767545033e-07
+      },
+      "tip_anchor_error": 2.980232238769531e-07
+    },
+    {
+      "frame": 100,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.43925195932388306,
+      "wrists": {
+        "Right": 12.583650243791768,
+        "Left": 1.20040425252586
+      },
+      "grip_errors": {
+        "Right": 2.4314476359010817e-07,
+        "Left": 4.182955279236495e-07
+      },
+      "tip_anchor_error": 1.9082797281243946e-07
+    },
+    {
+      "frame": 101,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.45772606134414673,
+      "wrists": {
+        "Right": 12.674510542773154,
+        "Left": 0.4325065213479836
+      },
+      "grip_errors": {
+        "Right": 2.5506679368948475e-07,
+        "Left": 1.1920928955078125e-07
+      },
+      "tip_anchor_error": 4.702727150338739e-07
+    },
+    {
+      "frame": 102,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.47549283504486084,
+      "wrists": {
+        "Right": 12.73717752840802,
+        "Left": 0.22899729976775132
+      },
+      "grip_errors": {
+        "Right": 1.4770200551747538e-07,
+        "Left": 1.7881393432617188e-07
+      },
+      "tip_anchor_error": 2.4027400458748785e-07
+    },
+    {
+      "frame": 103,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.492503821849823,
+      "wrists": {
+        "Right": 12.83946900273907,
+        "Left": 0.2733976381585068
+      },
+      "grip_errors": {
+        "Right": 8.429369702178807e-08,
+        "Left": 3.82817762454305e-07
+      },
+      "tip_anchor_error": 1.999200562387517e-07
+    },
+    {
+      "frame": 104,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5087187886238098,
+      "wrists": {
+        "Right": 12.98748517846877,
+        "Left": 0.35827402441630163
+      },
+      "grip_errors": {
+        "Right": 1.4370159448672764e-07,
+        "Left": 2.568019619526578e-07
+      },
+      "tip_anchor_error": 2.6656007498500226e-07
+    },
+    {
+      "frame": 105,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5241029858589172,
+      "wrists": {
+        "Right": 13.122780980642968,
+        "Left": 0.44057473566591404
+      },
+      "grip_errors": {
+        "Right": 6.664001874625056e-08,
+        "Left": 6.51744834441812e-07
+      },
+      "tip_anchor_error": 2.682209014892578e-07
+    },
+    {
+      "frame": 106,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5386281609535217,
+      "wrists": {
+        "Right": 13.23603234727095,
+        "Left": 0.5185104491077859
+      },
+      "grip_errors": {
+        "Right": 1.228781230931777e-07,
+        "Left": 1.6858739404357614e-07
+      },
+      "tip_anchor_error": 3.538829710196828e-07
+    },
+    {
+      "frame": 107,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5522720217704773,
+      "wrists": {
+        "Right": 13.341416189748722,
+        "Left": 0.5918220177598533
+      },
+      "grip_errors": {
+        "Right": 1.4901161193847656e-07,
+        "Left": 1.4901161193847656e-07
+      },
+      "tip_anchor_error": 2.7476383618393204e-07
+    },
+    {
+      "frame": 108,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5650174021720886,
+      "wrists": {
+        "Right": 13.442610564944339,
+        "Left": 0.660864131211281
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 2.2302015940987714e-07
+      },
+      "tip_anchor_error": 4.460403188197543e-07
+    },
+    {
+      "frame": 109,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5768517255783081,
+      "wrists": {
+        "Right": 13.539269694531066,
+        "Left": 0.7249675910059662
+      },
+      "grip_errors": {
+        "Right": 5.127385417844431e-07,
+        "Left": 2.1696418193818683e-07
+      },
+      "tip_anchor_error": 2.384185791015625e-07
+    },
+    {
+      "frame": 110,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5877669453620911,
+      "wrists": {
+        "Right": 13.630997427537046,
+        "Left": 0.784345360307796
+      },
+      "grip_errors": {
+        "Right": 1.6858739404357614e-07,
+        "Left": 3.998401124775034e-07
+      },
+      "tip_anchor_error": 2.7314279645418166e-07
+    },
+    {
+      "frame": 111,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.5977581739425659,
+      "wrists": {
+        "Right": 13.716982678998336,
+        "Left": 0.8388347418763066
+      },
+      "grip_errors": {
+        "Right": 3.65306457046606e-07,
+        "Left": 3.6378370570342845e-07
+      },
+      "tip_anchor_error": 2.980232238769531e-07
+    },
+    {
+      "frame": 112,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6068227291107178,
+      "wrists": {
+        "Right": 13.797431208363685,
+        "Left": 0.8882338182441594
+      },
+      "grip_errors": {
+        "Right": 1.7881393432617188e-07,
+        "Left": 1.999200562387517e-07
+      },
+      "tip_anchor_error": 2.5288109106536417e-07
+    },
+    {
+      "frame": 113,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6149595975875854,
+      "wrists": {
+        "Right": 13.87088562401894,
+        "Left": 0.9331415116241999
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 1.9082797281243946e-07
+      },
+      "tip_anchor_error": 1.7881393432617188e-07
+    },
+    {
+      "frame": 114,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6221683621406555,
+      "wrists": {
+        "Right": 13.93769511938542,
+        "Left": 1.0120108799091008
+      },
+      "grip_errors": {
+        "Right": 1.6858739404357614e-07,
+        "Left": 4.851466594964178e-07
+      },
+      "tip_anchor_error": 2.980232238769531e-07
+    },
+    {
+      "frame": 115,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6284483671188354,
+      "wrists": {
+        "Right": 13.997345722728081,
+        "Left": 1.3220462931057906
+      },
+      "grip_errors": {
+        "Right": 1.228781230931777e-07,
+        "Left": 4.430433734452279e-07
+      },
+      "tip_anchor_error": 3.625608998714816e-07
+    },
+    {
+      "frame": 116,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6337975263595581,
+      "wrists": {
+        "Right": 14.048900844356984,
+        "Left": 2.1878487562594233
+      },
+      "grip_errors": {
+        "Right": 3.625608998714816e-07,
+        "Left": 3.998401124775034e-07
+      },
+      "tip_anchor_error": 9.156639275394211e-07
+    },
+    {
+      "frame": 117,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6382099390029907,
+      "wrists": {
+        "Right": 14.092811276757349,
+        "Left": 3.59428459788166
+      },
+      "grip_errors": {
+        "Right": 8.940696716308594e-08,
+        "Left": 2.1490760299348766e-07
+      },
+      "tip_anchor_error": 0.0
+    },
+    {
+      "frame": 118,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6416772603988647,
+      "wrists": {
+        "Right": 14.127230307532336,
+        "Left": 4.975356532021054
+      },
+      "grip_errors": {
+        "Right": 1.2731557704981462e-07,
+        "Left": 3.674277068954096e-07
+      },
+      "tip_anchor_error": 1.6858739404357614e-07
+    },
+    {
+      "frame": 119,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6441846489906311,
+      "wrists": {
+        "Right": 14.152784606538292,
+        "Left": 5.782724165504289
+      },
+      "grip_errors": {
+        "Right": 3.11145380404906e-07,
+        "Left": 3.769728732309794e-07
+      },
+      "tip_anchor_error": 1.884864366154897e-07
+    },
+    {
+      "frame": 120,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6457114219665527,
+      "wrists": {
+        "Right": 14.167833220827124,
+        "Left": 5.833076320065623
+      },
+      "grip_errors": {
+        "Right": 1.6049041769309353e-07,
+        "Left": 3.5886748369909214e-07
+      },
+      "tip_anchor_error": 1.1920928955078125e-07
+    },
+    {
+      "frame": 121,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6462284326553345,
+      "wrists": {
+        "Right": 14.169870324747079,
+        "Left": 5.1429279662313245
+      },
+      "grip_errors": {
+        "Right": 1.0745380149674383e-07,
+        "Left": 3.5762786865234375e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 122,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6464711427688599,
+      "wrists": {
+        "Right": 13.790183523880655,
+        "Left": 4.087536527191062
+      },
+      "grip_errors": {
+        "Right": 1.7881393432617188e-07,
+        "Left": 3.816559456248789e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 123,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6472188830375671,
+      "wrists": {
+        "Right": 12.751250279419185,
+        "Left": 3.0030267110585673
+      },
+      "grip_errors": {
+        "Right": 2.6151431761360534e-07,
+        "Left": 5.65459309846469e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 124,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6485369205474854,
+      "wrists": {
+        "Right": 11.242952411609965,
+        "Left": 1.902280468051894
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 1.3328003749250113e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 125,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.650567889213562,
+      "wrists": {
+        "Right": 9.441254376492735,
+        "Left": 0.8218674847609371
+      },
+      "grip_errors": {
+        "Right": 2.6656007498500226e-07,
+        "Left": 4.182955279236495e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 126,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6535217761993408,
+      "wrists": {
+        "Right": 7.489568802296612,
+        "Left": 0.05934702678045817
+      },
+      "grip_errors": {
+        "Right": 1.7120130796843852e-07,
+        "Left": 4.2670431921709637e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 127,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6575887799263,
+      "wrists": {
+        "Right": 5.557918307370252,
+        "Left": 0.4764232503289904
+      },
+      "grip_errors": {
+        "Right": 3.674277068954096e-07,
+        "Left": 1.4901161193847656e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 128,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.663033664226532,
+      "wrists": {
+        "Right": 3.8819145360014753,
+        "Left": 0.5355884833537565
+      },
+      "grip_errors": {
+        "Right": 2.9950963321688443e-07,
+        "Left": 3.371747880871523e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 129,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6701353788375854,
+      "wrists": {
+        "Right": 2.6442686770261203,
+        "Left": 0.6142119648285369
+      },
+      "grip_errors": {
+        "Right": 8.429369702178807e-08,
+        "Left": 2.9200193199910854e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 130,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.679146945476532,
+      "wrists": {
+        "Right": 1.8328029300408781,
+        "Left": 0.7558876439352024
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 2.457562461863554e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 131,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.6903036236763,
+      "wrists": {
+        "Right": 1.2525767592227082,
+        "Left": 0.8154137564080685
+      },
+      "grip_errors": {
+        "Right": 2.682209014892578e-07,
+        "Left": 2.384185791015625e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 132,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.7037276029586792,
+      "wrists": {
+        "Right": 0.629317942034225,
+        "Left": 0.6173895502573267
+      },
+      "grip_errors": {
+        "Right": 3.625608998714816e-07,
+        "Left": 1.3657139822709083e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 133,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.7195146679878235,
+      "wrists": {
+        "Right": 0.1398823142225008,
+        "Left": 0.20174118976097744
+      },
+      "grip_errors": {
+        "Right": 2.457562461863554e-07,
+        "Left": 3.0538293021796936e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 134,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.7378076314926147,
+      "wrists": {
+        "Right": 0.8494975209443427,
+        "Left": 0.2790645340550753
+      },
+      "grip_errors": {
+        "Right": 2.5288109106536417e-07,
+        "Left": 1.3657139822709083e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 135,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.7587304711341858,
+      "wrists": {
+        "Right": 1.3184890452086833,
+        "Left": 0.19782350264280654
+      },
+      "grip_errors": {
+        "Right": 2.6656007498500226e-07,
+        "Left": 2.6656007498500226e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 136,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.7819951176643372,
+      "wrists": {
+        "Right": 1.472463387050456,
+        "Left": 0.14265252956010954
+      },
+      "grip_errors": {
+        "Right": 1.812804499357408e-07,
+        "Left": 3.998401124775034e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 137,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.8076636791229248,
+      "wrists": {
+        "Right": 1.3242647172038695,
+        "Left": 0.29673543405708835
+      },
+      "grip_errors": {
+        "Right": 2.7314279645418166e-07,
+        "Left": 2.384185791015625e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 138,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.8353504538536072,
+      "wrists": {
+        "Right": 0.9166390275375086,
+        "Left": 0.178041140372334
+      },
+      "grip_errors": {
+        "Right": 1.7120130796843852e-07,
+        "Left": 1.9082797281243946e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 139,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.8648313283920288,
+      "wrists": {
+        "Right": 0.4710537077851555,
+        "Left": 0.7566638842622038
+      },
+      "grip_errors": {
+        "Right": 1.7881393432617188e-07,
+        "Left": 1.4600096599955427e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 140,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.8956637978553772,
+      "wrists": {
+        "Right": 0.34149665189594375,
+        "Left": 1.3426091112106429
+      },
+      "grip_errors": {
+        "Right": 1.1920928955078125e-07,
+        "Left": 5.092623081992585e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 141,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.9268203973770142,
+      "wrists": {
+        "Right": 0.435212556919778,
+        "Left": 1.5753252888989075
+      },
+      "grip_errors": {
+        "Right": 3.03925246810483e-07,
+        "Left": 3.8628224721001747e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 142,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.9578430652618408,
+      "wrists": {
+        "Right": 0.5074485842209799,
+        "Left": 1.506101961991063
+      },
+      "grip_errors": {
+        "Right": 1.6049041769309353e-07,
+        "Left": 5.101335873789695e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 143,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 0.9889103174209595,
+      "wrists": {
+        "Right": 0.4545647773550984,
+        "Left": 1.2030096495291025
+      },
+      "grip_errors": {
+        "Right": 2.1490760299348766e-07,
+        "Left": 2.4755668231600746e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 144,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0194402933120728,
+      "wrists": {
+        "Right": 0.23069991118136213,
+        "Left": 0.7519945961908537
+      },
+      "grip_errors": {
+        "Right": 3.5762786865234375e-07,
+        "Left": 2.6151431761360534e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 145,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0488375425338745,
+      "wrists": {
+        "Right": 0.14536995767399616,
+        "Left": 0.3896676815953694
+      },
+      "grip_errors": {
+        "Right": 3.384893146634265e-07,
+        "Left": 1.4600096599955427e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 146,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0767648220062256,
+      "wrists": {
+        "Right": 0.3127866720913092,
+        "Left": 0.29739412042517144
+      },
+      "grip_errors": {
+        "Right": 3.7814907850174666e-07,
+        "Left": 1.3328003749250113e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 147,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.101598858833313,
+      "wrists": {
+        "Right": 0.29475057041211206,
+        "Left": 0.5845029364556558
+      },
+      "grip_errors": {
+        "Right": 2.4027400458748785e-07,
+        "Left": 3.384893146634265e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 148,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.1188185214996338,
+      "wrists": {
+        "Right": 0.374300129488811,
+        "Left": 0.6391902867883908
+      },
+      "grip_errors": {
+        "Right": 1.999200562387517e-07,
+        "Left": 2.2302015940987714e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 149,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.1360507011413574,
+      "wrists": {
+        "Right": 0.32445495639079175,
+        "Left": 0.3032578911884803
+      },
+      "grip_errors": {
+        "Right": 5.960464477539063e-08,
+        "Left": 5.462855929083633e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 150,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.1531341075897217,
+      "wrists": {
+        "Right": 0.2229358003640559,
+        "Left": 0.3280534522271835
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 3.816559456248789e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 151,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.1702525615692139,
+      "wrists": {
+        "Right": 0.21306245509389837,
+        "Left": 0.65908518709761
+      },
+      "grip_errors": {
+        "Right": 3.8743019104003906e-07,
+        "Left": 1.999200562387517e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 152,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.1871871948242188,
+      "wrists": {
+        "Right": 0.23984830924435951,
+        "Left": 0.6078070082952103
+      },
+      "grip_errors": {
+        "Right": 3.0538293021796936e-07,
+        "Left": 7.202056630608185e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 153,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2040437459945679,
+      "wrists": {
+        "Right": 0.5733490774584662,
+        "Left": 0.3102742830546552
+      },
+      "grip_errors": {
+        "Right": 2.6656007498500226e-07,
+        "Left": 5.967910407334801e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 154,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2208040952682495,
+      "wrists": {
+        "Right": 0.7656615379157848,
+        "Left": 0.13705611000999646
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 3.6378370570342845e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 155,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2332701683044434,
+      "wrists": {
+        "Right": 0.9266179339148972,
+        "Left": 0.44234767668363484
+      },
+      "grip_errors": {
+        "Right": 1.3657139822709083e-07,
+        "Left": 2.5463115409962923e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 156,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2409815788269043,
+      "wrists": {
+        "Right": 1.1166252588881893,
+        "Left": 0.8089085348321602
+      },
+      "grip_errors": {
+        "Right": 1.6049041769309353e-07,
+        "Left": 5.405651672845201e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 157,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2480311393737793,
+      "wrists": {
+        "Right": 1.218685787447928,
+        "Left": 0.9526492789456967
+      },
+      "grip_errors": {
+        "Right": 1.812804499357408e-07,
+        "Left": 3.674277068954096e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 158,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2542778253555298,
+      "wrists": {
+        "Right": 1.1166252588881893,
+        "Left": 0.8089085348321602
+      },
+      "grip_errors": {
+        "Right": 0.0,
+        "Left": 5.127385417844431e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 159,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2575957775115967,
+      "wrists": {
+        "Right": 0.9266179339148972,
+        "Left": 0.44234767668363484
+      },
+      "grip_errors": {
+        "Right": 2.7314279645418166e-07,
+        "Left": 4.951133646320149e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 160,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2605798244476318,
+      "wrists": {
+        "Right": 0.7656615379157848,
+        "Left": 0.13705611000999646
+      },
+      "grip_errors": {
+        "Right": 2.5288109106536417e-07,
+        "Left": 2.1696418193818683e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 161,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.262885570526123,
+      "wrists": {
+        "Right": 0.5733490774584662,
+        "Left": 0.3102742830546552
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 3.674277068954096e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 162,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.264573097229004,
+      "wrists": {
+        "Right": 0.23984830924435951,
+        "Left": 0.6078070082952103
+      },
+      "grip_errors": {
+        "Right": 1.6858739404357614e-07,
+        "Left": 4.814712530792806e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 163,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2577381134033203,
+      "wrists": {
+        "Right": 0.21306245509389837,
+        "Left": 0.659382033522241
+      },
+      "grip_errors": {
+        "Right": 3.816559456248789e-07,
+        "Left": 1.228781230931777e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 164,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2479408979415894,
+      "wrists": {
+        "Right": 0.2229358003640559,
+        "Left": 0.3280534522271835
+      },
+      "grip_errors": {
+        "Right": 1.4600096599955427e-07,
+        "Left": 1.3657139822709083e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 165,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2379345893859863,
+      "wrists": {
+        "Right": 0.32445495639079175,
+        "Left": 0.3032578911884803
+      },
+      "grip_errors": {
+        "Right": 2.8115454709698567e-07,
+        "Left": 5.63098300328588e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 166,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2277872562408447,
+      "wrists": {
+        "Right": 0.374300129488811,
+        "Left": 0.6391902867883908
+      },
+      "grip_errors": {
+        "Right": 2.1490760299348766e-07,
+        "Left": 2.9802322387695312e-08
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 167,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.2167439460754395,
+      "wrists": {
+        "Right": 0.29475057041211206,
+        "Left": 0.5845029364556558
+      },
+      "grip_errors": {
+        "Right": 2.6656007498500226e-07,
+        "Left": 4.5491270787935696e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 168,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.205596923828125,
+      "wrists": {
+        "Right": 0.3121604558022101,
+        "Left": 0.29739412042517144
+      },
+      "grip_errors": {
+        "Right": 2.7314279645418166e-07,
+        "Left": 2.5463115409962923e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 169,
+      "shaft_hits": 2,
+      "hit_examples": [
+        {
+          "point": [
+            0.2914564609527588,
+            -0.7370565533638,
+            1.4633311033248901
+          ],
+          "segment_length": 0.0027042520232498646
+        }
+      ],
+      "min_height": 1.1944701671600342,
+      "wrists": {
+        "Right": 0.14536995767399616,
+        "Left": 0.3896676815953694
+      },
+      "grip_errors": {
+        "Right": 3.5886748369909214e-07,
+        "Left": 3.769728732309794e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 170,
+      "shaft_hits": 86,
+      "hit_examples": [
+        {
+          "point": [
+            0.28023919463157654,
+            -0.7183002829551697,
+            1.4792094230651855
+          ],
+          "segment_length": 0.006159147713333368
+        }
+      ],
+      "min_height": 1.1834408044815063,
+      "wrists": {
+        "Right": 0.23069991118136213,
+        "Left": 0.7519945961908537
+      },
+      "grip_errors": {
+        "Right": 8.429369702178807e-08,
+        "Left": 2.9802322387695312e-08
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 171,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.2756063938140869,
+            -0.7105538249015808,
+            1.4857672452926636
+          ],
+          "segment_length": 0.025471113622188568
+        }
+      ],
+      "min_height": 1.1727243661880493,
+      "wrists": {
+        "Right": 0.4545647773550984,
+        "Left": 1.2030096495291025
+      },
+      "grip_errors": {
+        "Right": 1.6858739404357614e-07,
+        "Left": 4.3392836387637365e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 172,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.2677169144153595,
+            -0.6973618865013123,
+            1.4969351291656494
+          ],
+          "segment_length": 0.006471292581409216
+        }
+      ],
+      "min_height": 1.162362813949585,
+      "wrists": {
+        "Right": 0.5074485842209799,
+        "Left": 1.506101961991063
+      },
+      "grip_errors": {
+        "Right": 1.4901161193847656e-07,
+        "Left": 4.308471767545033e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 173,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.26326054334640503,
+            -0.689910352230072,
+            1.5032432079315186
+          ],
+          "segment_length": 0.02620799094438553
+        }
+      ],
+      "min_height": 1.1523747444152832,
+      "wrists": {
+        "Right": 0.435212556919778,
+        "Left": 1.5753252888989075
+      },
+      "grip_errors": {
+        "Right": 1.3657139822709083e-07,
+        "Left": 3.03925246810483e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 174,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.26207083463668823,
+            -0.6879210472106934,
+            1.5049272775650024
+          ],
+          "segment_length": 0.02334294654428959
+        }
+      ],
+      "min_height": 1.142783761024475,
+      "wrists": {
+        "Right": 0.34149665189594375,
+        "Left": 1.3427547863390346
+      },
+      "grip_errors": {
+        "Right": 1.228781230931777e-07,
+        "Left": 2.0647654623614278e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 175,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.25970569252967834,
+            -0.683966338634491,
+            1.5082751512527466
+          ],
+          "segment_length": 0.01764710806310177
+        }
+      ],
+      "min_height": 1.133711814880371,
+      "wrists": {
+        "Right": 0.4710537077851555,
+        "Left": 0.7566638842622038
+      },
+      "grip_errors": {
+        "Right": 3.7814907850174666e-07,
+        "Left": 4.0094924113374084e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 176,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.25953394174575806,
+            -0.6836791038513184,
+            1.5085183382034302
+          ],
+          "segment_length": 0.017233436927199364
+        }
+      ],
+      "min_height": 1.125148892402649,
+      "wrists": {
+        "Right": 0.9166390275375086,
+        "Left": 0.178041140372334
+      },
+      "grip_errors": {
+        "Right": 1.7120130796843852e-07,
+        "Left": 2.7314279645418166e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 177,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.25830304622650146,
+            -0.6816209554672241,
+            1.5102607011795044
+          ],
+          "segment_length": 0.014269162900745869
+        }
+      ],
+      "min_height": 1.117027997970581,
+      "wrists": {
+        "Right": 1.3242647172038695,
+        "Left": 0.29673543405708835
+      },
+      "grip_errors": {
+        "Right": 3.816559456248789e-07,
+        "Left": 4.777675730550706e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 178,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.25790223479270935,
+            -0.6809507608413696,
+            1.5108280181884766
+          ],
+          "segment_length": 0.013303964398801327
+        }
+      ],
+      "min_height": 1.1094865798950195,
+      "wrists": {
+        "Right": 1.472463387050456,
+        "Left": 0.14265252956010954
+      },
+      "grip_errors": {
+        "Right": 1.3328003749250113e-07,
+        "Left": 5.63098300328588e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 179,
+      "shaft_hits": 100,
+      "hit_examples": [
+        {
+          "point": [
+            0.2585604786872864,
+            -0.6820513606071472,
+            1.5098962783813477
+          ],
+          "segment_length": 0.014889106154441833
+        }
+      ],
+      "min_height": 1.1024582386016846,
+      "wrists": {
+        "Right": 1.3184890452086833,
+        "Left": 0.19782350264280654
+      },
+      "grip_errors": {
+        "Right": 2.4755668231600746e-07,
+        "Left": 3.5886748369909214e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 180,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.2610521912574768,
+            -0.6862177848815918,
+            1.5063692331314087
+          ],
+          "segment_length": 0.020889809355139732
+        }
+      ],
+      "min_height": 1.0959537029266357,
+      "wrists": {
+        "Right": 0.8494975209443427,
+        "Left": 0.2790645340550753
+      },
+      "grip_errors": {
+        "Right": 1.4600096599955427e-07,
+        "Left": 2.384185791015625e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 181,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.26452574133872986,
+            -0.6881293058395386,
+            1.498937726020813
+          ],
+          "segment_length": 0.028027454391121864
+        }
+      ],
+      "min_height": 1.0900201797485352,
+      "wrists": {
+        "Right": 0.1398823142225008,
+        "Left": 0.20174118976097744
+      },
+      "grip_errors": {
+        "Right": 6.664001874625056e-08,
+        "Left": 3.6378370570342845e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 182,
+      "shaft_hits": 98,
+      "hit_examples": [
+        {
+          "point": [
+            0.2726334035396576,
+            -0.6822029948234558,
+            1.4971375465393066
+          ],
+          "segment_length": 0.028337469324469566
+        }
+      ],
+      "min_height": 1.0845410823822021,
+      "wrists": {
+        "Right": 0.629317942034225,
+        "Left": 0.6177064070017918
+      },
+      "grip_errors": {
+        "Right": 4.3392836387637365e-07,
+        "Left": 4.924151790695877e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 183,
+      "shaft_hits": 33,
+      "hit_examples": [
+        {
+          "point": [
+            0.27741965651512146,
+            -0.6979992985725403,
+            1.4830307960510254
+          ],
+          "segment_length": 0.019115682691335678
+        }
+      ],
+      "min_height": 1.0796012878417969,
+      "wrists": {
+        "Right": 1.2527329997999723,
+        "Left": 0.8154137564080685
+      },
+      "grip_errors": {
+        "Right": 1.7881393432617188e-07,
+        "Left": 4.460403188197543e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 184,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0751105546951294,
+      "wrists": {
+        "Right": 1.8326959948916852,
+        "Left": 0.7558876439352024
+      },
+      "grip_errors": {
+        "Right": 1.0745380149674383e-07,
+        "Left": 3.8743019104003906e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 185,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0709776878356934,
+      "wrists": {
+        "Right": 2.644342741889933,
+        "Left": 0.6142119648285369
+      },
+      "grip_errors": {
+        "Right": 3.2098083538618706e-07,
+        "Left": 4.3392836387637365e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 186,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0661945343017578,
+      "wrists": {
+        "Right": 3.8818137907112176,
+        "Left": 0.5355884833537565
+      },
+      "grip_errors": {
+        "Right": 5.092623081992585e-07,
+        "Left": 3.6378370570342845e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 187,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0620590448379517,
+      "wrists": {
+        "Right": 5.557988743696067,
+        "Left": 0.5248866441414043
+      },
+      "grip_errors": {
+        "Right": 1.1920928955078125e-07,
+        "Left": 4.172325134277344e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 188,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0585641860961914,
+      "wrists": {
+        "Right": 7.489542335313578,
+        "Left": 0.4173098573728077
+      },
+      "grip_errors": {
+        "Right": 1.228781230931777e-07,
+        "Left": 2.6151431761360534e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 189,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.055675745010376,
+      "wrists": {
+        "Right": 9.441087890631717,
+        "Left": 0.528601413276245
+      },
+      "grip_errors": {
+        "Right": 2.3276357876976293e-07,
+        "Left": 4.308471767545033e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 190,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0534074306488037,
+      "wrists": {
+        "Right": 11.242776534238835,
+        "Left": 0.9983841189063963
+      },
+      "grip_errors": {
+        "Right": 3.264680847556389e-07,
+        "Left": 1.228781230931777e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 191,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.051778793334961,
+      "wrists": {
+        "Right": 12.750924991659964,
+        "Left": 1.4663372409734834
+      },
+      "grip_errors": {
+        "Right": 2.980232238769531e-07,
+        "Left": 1.3328003749250113e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 192,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.050794005393982,
+      "wrists": {
+        "Right": 13.789008731343413,
+        "Left": 1.4737918588440233
+      },
+      "grip_errors": {
+        "Right": 2.384185791015625e-07,
+        "Left": 5.057621821307283e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 193,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.16495941873384,
+        "Left": 0.9604229947165233
+      },
+      "grip_errors": {
+        "Right": 4.042583693936627e-07,
+        "Left": 5.031211082975308e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 194,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.164177362073874,
+        "Left": 0.5442860889315331
+      },
+      "grip_errors": {
+        "Right": 2.5288109106536417e-07,
+        "Left": 6.07850493620966e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 195,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.164038196969535,
+        "Left": 0.5062904402698397
+      },
+      "grip_errors": {
+        "Right": 2.1696418193818683e-07,
+        "Left": 1.4600096599955427e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 196,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 197,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 198,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 199,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 200,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 201,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 202,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 203,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 204,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 205,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 206,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 207,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 208,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 209,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 210,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 211,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 212,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 213,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 214,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 215,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 216,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    },
+    {
+      "frame": 217,
+      "shaft_hits": 0,
+      "hit_examples": [],
+      "min_height": 1.0504612922668457,
+      "wrists": {
+        "Right": 14.163996362060868,
+        "Left": 0.5132000303889539
+      },
+      "grip_errors": {
+        "Right": 4.842304232499576e-07,
+        "Left": 4.805480091749757e-07
+      },
+      "tip_anchor_error": 2.1490760299348766e-07
+    }
+  ],
+  "max_wrist_angle": 14.169870324747079,
+  "max_grip_error": 7.202056630608185e-07,
+  "max_anchor_error": 1.1449678368746367e-06,
+  "local_euler_ranges": {
+    "Right_upper_arm": [
+      [
+        -0.0010426581421531995,
+        0.0008134726536650425
+      ],
+      [
+        -175.28933282142526,
+        176.96357611153547
+      ],
+      [
+        -0.0008041155362934896,
+        0.001041812185038133
+      ]
+    ],
+    "Right_forearm": [
+      [
+        -33.641102964373566,
+        89.93711695278986
+      ],
+      [
+        -1.5171737213557042e-05,
+        1.6033060326178308e-05
+      ],
+      [
+        -1.7627500783988163e-05,
+        1.7881591786157916e-05
+      ]
+    ],
+    "Right_forearm_twist": [
+      [
+        -7.096287341149314e-05,
+        0.00017171129028165528
+      ],
+      [
+        -178.7410645411396,
+        178.09890381575332
+      ],
+      [
+        -7.096287992526913e-05,
+        0.00017847677160100683
+      ]
+    ],
+    "Right_hand": [
+      [
+        -3.7919088644399856,
+        4.570307958105904
+      ],
+      [
+        -0.5810586001232653,
+        0.38290942285505336
+      ],
+      [
+        10.156590333551925,
+        26.077404411467516
+      ]
+    ],
+    "Right_shin": [
+      [
+        36.17448501432841,
+        120.21902018522985
+      ],
+      [
+        -6.46495002558915e-05,
+        -4.802239007341667e-06
+      ],
+      [
+        1.6169177074547967e-05,
+        7.298413718311291e-05
+      ]
+    ],
+    "Left_upper_arm": [
+      [
+        -0.0073404706685734865,
+        0.02796326970712826
+      ],
+      [
+        -179.8617073386419,
+        178.10856170323973
+      ],
+      [
+        -0.007351563889631472,
+        0.027967965462182644
+      ]
+    ],
+    "Left_forearm": [
+      [
+        -69.45844763228577,
+        19.978486029847595
+      ],
+      [
+        -1.2946760797477901e-05,
+        3.157987378865548e-05
+      ],
+      [
+        -1.4626089598180646e-05,
+        2.6977978989365573e-05
+      ]
+    ],
+    "Left_forearm_twist": [
+      [
+        -0.0001632568780415732,
+        0.0022613754158393863
+      ],
+      [
+        -178.74991646630392,
+        177.33213311914935
+      ],
+      [
+        -0.00015003383462135767,
+        0.0022571200962621827
+      ]
+    ],
+    "Left_hand": [
+      [
+        3.303448953163582,
+        7.982477087713399
+      ],
+      [
+        -0.6822109269668037,
+        0.712529336279697
+      ],
+      [
+        -0.8462743119863314,
+        7.516010172121024
+      ]
+    ],
+    "Left_shin": [
+      [
+        -14.471512822835999,
+        84.93322474419014
+      ],
+      [
+        -5.208463807345879e-05,
+        1.2288035659400119e-05
+      ],
+      [
+        -1.5056448263907853e-05,
+        0.0001241672654029947
+      ]
+    ]
+  },
+  "max_frame_rotation_degrees": {
+    "Right_upper_arm": 15.459894129702912,
+    "Right_forearm": 4.144897736501299,
+    "Right_forearm_twist": 10.667615695742171,
+    "Right_hand": 2.2855618694124487,
+    "Right_shin": 5.327772948852556,
+    "Left_upper_arm": 16.734631117522607,
+    "Left_forearm": 3.8515953262757887,
+    "Left_forearm_twist": 12.96330289371234,
+    "Left_hand": 1.4856628343432112,
+    "Left_shin": 4.313712265140511
+  }
+}

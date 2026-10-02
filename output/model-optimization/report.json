@@ -1,0 +1,53 @@
+{
+  "source": "muscular frog 3d model.glb",
+  "source_sha256": "1792ae0989139cb8cd3a6fb4b90536c62d119dfe98e6ad9d5c58762d51544cf3",
+  "original_unchanged": true,
+  "source_bytes": 62613684,
+  "optimized_glb": "public/assets/pepe-tripo-optimized.glb",
+  "optimized_bytes": 10885280,
+  "source_triangles": 1959704,
+  "optimized_triangles": 80000,
+  "triangle_reduction_percent": 95.92,
+  "size_reduction_percent": 82.62,
+  "source_images": [
+    {
+      "name": "muscular+frog+3d+model_basecolor.jpg",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "muscular+frog+3d+model_normal.png",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "muscular+frog+3d+model_rm.jpg",
+      "width": 4096,
+      "height": 4096
+    }
+  ],
+  "optimized_images": [
+    {
+      "name": "muscular+frog+3d+model_basecolor.jpg_2k",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "name": "muscular+frog+3d+model_rm.jpg_2k",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "name": "muscular+frog+3d+model_normal.png_2k",
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "blender": "blender/pepe-tripo-optimized.blend",
+  "notes": [
+    "UVs and PBR textures preserved; maps limited to 2048 pixels.",
+    "No Draco decoder or compressed-texture extension is required.",
+    "Optimized static model only; it still requires a deformation/physics rig before game integration.",
+    "Current game character has not been replaced."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source_hashes": {
+    "muscular frog 3d model.glb": "1792ae0989139cb8cd3a6fb4b90536c62d119dfe98e6ad9d5c58762d51544cf3",
+    "blender/pepe-tripo-retopo.blend": "0123dd61b711b6b478e987ee4d66cbf3186a0884af33b201d1306fdcdff6b756",
+    "public/assets/pepe-tripo-retopo.glb": "c9e53525c5e0d2185016edec56ab241ca1854910b533a3de036cf93fd986b961"
+  },
+  "sources_unchanged": true,
+  "faces": 40167,
+  "quads": 39789,
+  "triangles": 80088,
+  "nonmanifold_edges": 0,
+  "inconsistent_edges": 0,
+  "sockets": [
+    {
+      "name": "GripSocket_Right",
+      "position": [
+        -0.2546239495277405,
+        0.04646958410739899,
+        0.9219995737075806
+      ],
+      "pole_axis": [
+        1,
+        0,
+        0
+      ],
+      "pole_radius": 0.008,
+      "wrist_cut_z": 0.894
+    },
+    {
+      "name": "GripSocket_Left",
+      "position": [
+        0.24924102425575256,
+        -0.1303938776254654,
+        0.7819998264312744
+      ],
+      "pole_axis": [
+        1,
+        0,
+        0
+      ],
+      "pole_radius": 0.008,
+      "wrist_cut_z": 0.754
+    }
+  ],
+  "notes": "Custom curled fingers and opposed thumbs, wrist surfaces stitched to retained original quad body. Arm flex pose preserved. No skinning yet. Separate gauge poles only in Blender.",
+  "pole_clearance_checks": [
+    {
+      "socket": "GripSocket_Right",
+      "bore_rays": 309,
+      "obstructed_rays": 0
+    },
+    {
+      "socket": "GripSocket_Left",
+      "bore_rays": 309,
+      "obstructed_rays": 0
+    }
+  ],
+  "glb_reimport": {
+    "meshes": 1,
+    "polygons": 80088,
+    "grip_sockets": [
+      "GripSocket_Left",
+      "GripSocket_Right"
+    ],
+    "gauge_meshes": 0
+  }
+}

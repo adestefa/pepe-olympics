@@ -1,0 +1,42 @@
+{
+  "method": "QuadriFlow quad retopology directly from original, shrinkwrap projection, new UVs and selected-to-active PBR baking",
+  "source": "muscular frog 3d model.glb",
+  "source_sha256": "1792ae0989139cb8cd3a6fb4b90536c62d119dfe98e6ad9d5c58762d51544cf3",
+  "original_unchanged": true,
+  "source_triangles": 1959704,
+  "retopo_faces": 28334,
+  "retopo_quads": 28334,
+  "render_triangles": 56668,
+  "source_bytes": 62613684,
+  "optimized_bytes": 10201596,
+  "glb": "public/assets/pepe-tripo-retopo.glb",
+  "blend": "blender/pepe-tripo-retopo.blend",
+  "textures": {
+    "basecolor": [
+      2048,
+      2048
+    ],
+    "normal": [
+      2048,
+      2048
+    ],
+    "roughness_metallic": [
+      2048,
+      2048
+    ]
+  },
+  "elapsed_seconds": 62.1,
+  "limitations": [
+    "Automatic quad retopology, not hand-authored animation edge loops.",
+    "Original flexing pose retained; model still requires rigging and joint deformation checks before gameplay.",
+    "Current game character is unchanged."
+  ],
+  "triangle_reduction_percent": 97.11,
+  "file_size_reduction_percent": 83.71,
+  "verified": {
+    "source_sha256_unchanged": true,
+    "glb_binary_valid": true,
+    "all_three_pbr_maps_embedded": true,
+    "glb_reimport_render_reviewed": true
+  }
+}

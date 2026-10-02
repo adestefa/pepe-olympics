@@ -1,0 +1,30 @@
+{
+  "frames": 137,
+  "clip": "PolePlant_ReferenceStudy",
+  "duration": 4.5333333015441895,
+  "rigBoneCounts": [
+    23,
+    21
+  ],
+  "maxGripError": 5.199822104515913e-07,
+  "maxAnchorError": 7.016165960039483e-07,
+  "maxWrist": 14.168140981140407,
+  "checkedVertices": 156728,
+  "minHeight": -0.00041608923488323235,
+  "clampMax": {
+    "Right_upper_arm": 0.0288823057648016,
+    "Right_forearm": 0.03463459496455261,
+    "Right_forearm_twist": 0.031806195260211646,
+    "Right_hand": 0.03500688573492948,
+    "Right_thigh": 0.037761861955613124,
+    "Right_shin": 0.02430117853293538,
+    "Right_foot": 0.03536372547473924,
+    "Left_upper_arm": 0.03594238116382568,
+    "Left_forearm": 0.03857665926875275,
+    "Left_forearm_twist": 0.027107379804947946,
+    "Left_hand": 0,
+    "Left_thigh": 0,
+    "Left_shin": 0.02752499305888173,
+    "Left_foot": 0.017450665101089547
+  }
+}
